@@ -1,5 +1,5 @@
 ## Hi there 👋
--> Student Saint Petersburg Electrotechnical University «LETI»;  
+-> Student of Saint Petersburg Electrotechnical University «LETI»;  
 -> Сomputer science and engineering;  
 -> 4 course out of 5, part-time education.
 
