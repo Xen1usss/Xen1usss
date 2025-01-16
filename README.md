@@ -12,7 +12,7 @@
 -> понимание принципов ООП, SOLID, Clean Architecture;  
 -> понимание мобильных архитектур MV* (MVVM, MVP, MVI);  
 -> понимание работы git, GitHub, разработки по Git Flow;  
--> понимание работы и настройки, опыт применения в пет прокетах: Live Data, Room, Okhttps, Retrofit, Jetpack Navigation, Hilt, Dagger, Coroutines, Coil.  
+-> понимание работы и настройки, опыт применения в пет проектах: Live Data, Room, Okhttps, Retrofit, Jetpack Navigation, Hilt, Dagger, Coroutines, Coil.  
 
 ## Useful:
 -> понимание высшей математики, теории вероятностей, алгоритмов и структур данных;  
