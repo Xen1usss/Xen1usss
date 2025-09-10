@@ -7,12 +7,12 @@
 -> опыт программирования на Kotlin более 2,5 лет;  
 -> опыт программирования на Java, могу разобраться в коде, понимаю разницу с Kotlin, могу написать код для приложения (плюс есть реализации алгоритмических задач разного уровня сложности);  
 -> знание Android SDK, Android JetPack;  
--> понимание работы OC Android и жизненного цикла приложения; 
--> понимание принципов ООП, SOLID;
+-> понимание работы OC Android и жизненного цикла приложения;   
+-> понимание принципов ООП, SOLID;  
 -> умение работать с UI на Jetpack Compose, XML;    
 -> разработка Clean Architecture, применение мобильных архитектур MV* (MVVM, MVP, MVI);  
--> ведение изменений по Git Flow с помощью git, GitHub;
--> углубленная работа с различными системами хранения данных: DataStore (Preferences, Proto), SharedPreferences, Room;
+-> ведение изменений по Git Flow с помощью git, GitHub;  
+-> углубленная работа с различными системами хранения данных: DataStore (Preferences, Proto), SharedPreferences, Room;  
 -> понимание работы и настройки, опыт применения в пет проектах: Live Data, Flow, Okhttps, Retrofit, Jetpack Navigation, Dagger Hilt, Coroutines, Coil.  
 
 ## Soft skills:
